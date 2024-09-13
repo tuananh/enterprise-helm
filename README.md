@@ -16,7 +16,7 @@ The Coder Helm Chart is the best way to install and operate Coder on Kubernetes.
 > ⚠️ **Warning**: This repository will not represent the latest Coder release. Reference
 our installation docs for instructions on a tagged release.
 
-View [our docs](https://coder.com/docs/setup/installation) for detailed installation instructions.
+View [our docs](https://coder.com/docs/install) for detailed installation instructions.
 
 ## Values
 
